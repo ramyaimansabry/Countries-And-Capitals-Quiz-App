@@ -10,7 +10,7 @@ Mac running OS X 10.12 or later
 ## Screenshots of the App
 
 
-![](ScreenRecording.gif=250x250)
+![](ScreenRecording.gif =250x250)
 <img src="Screenshots/Image1.png" width="250"><img src="Screenshots/Image2.png" width="250"> <img src="Screenshots/Image3.png" width="250"><img src="Screenshots/Image4.png" width="250"><img src="Screenshots/Image5.png" width="250"><img src="Screenshots/Image6.png" width="250">
 
 
