@@ -9,4 +9,4 @@ Mac running OS X 10.12 or later
 
 ## Screenshots of the App
 
-<img src="Images/Image3.jpeg" width="250"> <img src="Images/Image2.jpeg" width="250"> <img src="Images/Image1.jpeg" width="250">
+<img src="Images/Image3.jpeg" width="250"> <img src="Screenshots/Image2.jpeg" width="250"> <img src="Images/Image1.jpeg" width="250">
